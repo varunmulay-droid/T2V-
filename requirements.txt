@@ -1,0 +1,12 @@
+flask
+flask-sock
+torch==2.6.0
+torchvision==0.21.0
+torchsde
+einops
+diffusers
+accelerate
+xformers==0.0.29.post2
+imageio
+Pillow
+comfyui==0.0  # (notional) or ensure your ComfyUI code is in repo
